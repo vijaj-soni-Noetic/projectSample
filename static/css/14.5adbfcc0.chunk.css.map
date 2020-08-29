@@ -1,0 +1,1 @@
+{"version":3,"sources":["default.css"],"names":[],"mappings":"AAAA,QACI,qBAAsB,CACtB,iBAAkB,CAClB,UACJ,CACA,OACI,oBAAoB,CACpB,cACJ","file":"14.5adbfcc0.chunk.css","sourcesContent":[".footer{\r\n    background-color: blue;\r\n    text-align: center;\r\n    color: white;\r\n}\r\n.image{\r\n    align-content:center;\r\n    margin-left: 8%;\r\n}"]}
